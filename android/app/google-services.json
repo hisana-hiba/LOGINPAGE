@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370809774732",
+    "project_id": "studentsgigs-97701",
+    "storage_bucket": "studentsgigs-97701.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370809774732:android:fe3a1febb44489b89451a9",
+        "android_client_info": {
+          "package_name": "com.example.untitled63"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370809774732-8nol7ln9t2i59srbiemonbfrirk8ua28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled63",
+            "certificate_hash": "9d529d109c77c3e5a790516b27a1232957778f79"
+          }
+        },
+        {
+          "client_id": "370809774732-3ur274tl1aga6bjnesl7gj79n28a823t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABN0bteD1qym19NM0S2H4UXqsknPJfC9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370809774732-3ur274tl1aga6bjnesl7gj79n28a823t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
